@@ -1,6 +1,6 @@
-# run-selected-powershell-script README
+# dash1 README
 
-This is the README for your extension "run-selected-powershell-script". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "dash1". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
@@ -48,6 +48,11 @@ Fixed issue #.
 Added features X, Y, and Z.
 
 -----------------------------------------------------------------------------------------------------------
+## Following extension guidelines
+
+Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+
+* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
 
 ## Working with Markdown
 
