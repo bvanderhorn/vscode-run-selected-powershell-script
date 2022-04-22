@@ -4,7 +4,7 @@
 [![](https://vsmarketplacebadge.apphb.com/installs-short/bvanderhorn.run-selected-powershell-script.svg)](https://marketplace.visualstudio.com/items?itemName=bvanderhorn.run-selected-powershell-script)
 [![](https://vsmarketplacebadge.apphb.com/rating-short/bvanderhorn.run-selected-powershell-script.svg)](https://marketplace.visualstudio.com/items?itemName=bvanderhorn.run-selected-powershell-script)
 
-![Copy file names as array of strings](https://raw.githubusercontent.com/bvanderhorn/vscode-run-selected-powershell-script/main/img/rsps-use-gif.gif)
+![Run selected PowerShell script](https://raw.githubusercontent.com/bvanderhorn/vscode-run-selected-powershell-script/main/img/rsps-use-gif.gif)
 
 Simple VS Code plugin that allows you to select a PowerShell script (*.ps1) in the sidebar and directly run it, with one click, locally in a dedicated integrated terminal.
 
