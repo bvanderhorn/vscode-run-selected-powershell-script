@@ -1,7 +1,7 @@
 {
   "name": "run-selected-powershell-script",
   "displayName": "Run selected PowerShell script",
-  "description": "Simple VS Code plugin that allows you to select a PowerShell script in the Explorer and directly run it in a dedicated integrated terminal.",
+  "description": "Simple VS Code plugin that allows you to select a PowerShell script in the Explorer and directly run it locally in a dedicated integrated terminal.",
   "license": "MIT",
   "version": "1.0.0",
   "publisher": "bvanderhorn",
@@ -22,20 +22,20 @@
     "integrated"
   ],
   "activationEvents": [
-    "onCommand:run-selected-powershell-script.runPowerShellScript"
+    "onCommand:run-selected-powershell-script.runpowershellscript"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "run-selected-powershell-script.runPowerShellScript",
+        "command": "run-selected-powershell-script.runpowershellscript",
         "title": "Run PowerShell script in dedicated terminal"
       }
     ],
     "menus": {
       "explorer/context": [
         {
-          "command": "run-selected-powershell-script.runPowerShellScript",
+          "command": "run-selected-powershell-script.runpowershellscript",
           "when": "resourceExtname == .ps1",
           "group": "run-selected-powershell-script"
         }
